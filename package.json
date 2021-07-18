@@ -1,0 +1,10 @@
+{
+  "name": "crawl-queue",
+  "version": "0.1.0",
+  "description": "Crawling a web site with browserless and NodeJs",
+  "main": "index.js",
+  "repository": "git@github.com:eksant/crawl-queue.git",
+  "author": "eksant <eksant@gmail.com>",
+  "license": "MIT",
+  "private": true
+}

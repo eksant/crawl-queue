@@ -8,6 +8,7 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
+    "bull": "^3.26.0",
     "cheerio": "^1.0.0-rc.10",
     "request": "^2.88.2"
   }
